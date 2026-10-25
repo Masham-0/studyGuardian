@@ -1,0 +1,18 @@
+# Public demo only. No OAuth secrets, no uploaded notes, no model endpoint.
+services:
+  - type: web
+    name: studyguardian
+    runtime: python
+    plan: free
+    region: singapore
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true --browser.gatherUsageStats false
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: STUDYGUARDIAN_PUBLIC_DEMO
+        value: "1"
+      - key: STUDYGUARDIAN_TIMEZONE
+        value: UTC
+      - key: STUDYGUARDIAN_DATA_DIR
+        value: /tmp/studyguardian

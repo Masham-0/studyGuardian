@@ -1,0 +1,2 @@
+# Render native Python. 3.12 matches the libraries this app installs.
+python-3.12.7

@@ -1,0 +1,17 @@
+Sample notes for the StudyGuardian demo. This file is study material you can upload.
+It is not a Classroom assignment.
+
+Osmosis
+Osmosis is the diffusion of water across a selectively permeable membrane.
+Water moves toward the side with the higher solute concentration.
+A hypotonic solution has a lower solute concentration than the cell, so water enters the cell.
+A hypertonic solution has a higher solute concentration than the cell, so water leaves the cell.
+In a plant cell, water entering from a hypotonic solution presses the membrane against the cell wall. That pressure is turgor.
+
+Mitosis
+Mitosis produces two nuclei with the same chromosome number as the parent nucleus.
+Prophase: chromosomes condense and the nuclear envelope breaks down.
+Metaphase: chromosomes line up at the cell's equator.
+Anaphase: sister chromatids separate and move toward opposite poles.
+Telophase: nuclear envelopes form around each set of chromosomes.
+Cytokinesis divides the cytoplasm and, in plant cells, builds a cell plate.
